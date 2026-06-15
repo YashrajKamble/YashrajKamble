@@ -92,10 +92,19 @@
 # 📊 GitHub Stats
 
 <div align="center">
+<p align="center"> 
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=YashrajKamble&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="170"/> -->
+   <img src="https://github-readme-stats.vercel.app/api?username=YashrajKamble&show_icons=true&theme=radical" alt="bhoomika-254 GitHub Stats" />
+</p> 
+  
+<p align="center"> 
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=YashrajKamble&theme=tokyonight&hide_border=false" />
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashrajKamble&theme=radical&hide_border=true&background=0D1117" height="170"/> -->
+</p> 
 
-<img src="https://github-readme-stats.vercel.app/api?username=YashrajKamble&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YashrajKamble&theme=radical&hide_border=true&background=0D1117" height="170"/>
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashrajKamble&layout=compact&theme=dracula" />
+ </p> 
 
 </div>
 
