@@ -10,7 +10,10 @@
 
 <h1>Yashraj K. 👨‍💻</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=F706CF&center=true&vCenter=true&width=600&lines=Front+End+Developer;AI+Tools+Explorer;Full+Stack+Developer;Building+Cool+Things+on+the+Internet" />
+<!-- <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=F706CF&center=true&vCenter=true&width=600&lines=Front+End+Developer;AI+Tools+Explorer;Full+Stack+Developer;Building+Cool+Things+on+the+Internet" /> -->
+
+<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=F706CF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React.js+Developer;Next.js+Developer;Building+Production-Ready+Web+Applications" />
+
 
 <br/>
 
