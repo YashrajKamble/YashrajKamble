@@ -24,11 +24,12 @@
 
 # 🚀 About Me
 
-- 💻 Front End Developer
-- 🧠 Exploring React Native & AI
-- 🛠 Building developer tools and web apps
-- 🌱 Currently learning advanced front end and backend systems
-- ✨ Interested in open source and impactful tech
+* 💻 Frontend Developer with 1 year of professional experience building React.js applications
+* ⚛️ Strong in React.js, JavaScript, TypeScript, Redux, Next.js, and responsive UI development
+* 🔗 Build API-driven applications with reusable components, clean architecture, and modern frontend practices
+* 🧪 Exploring testing, performance optimisation, accessibility, React Native, and practical AI integrations
+* 🌱 Continuously improving frontend and full-stack skills through real-world projects and open-source learning
+
 
 ---
 
